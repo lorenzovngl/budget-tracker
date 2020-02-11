@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:id="@+id/CLVId"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/CLVPath"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/CLVIcon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            app:layout_row="0"
+            app:layout_column="0"
+            app:layout_rowSpan="2"
+            app:layout_gravity="center_vertical"/>
+
+        <TextView
+            style="@style/textNormal"
+            android:id="@+id/CLVDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            app:layout_row="0"
+            app:layout_column="2"
+            app:layout_columnWeight="1"/>
+
+        <TextView
+            android:id="@+id/CLVShared"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shared with..."
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            app:layout_row="1"
+            app:layout_column="2"
+            app:layout_columnWeight="1"/>
+
+    </android.support.v7.widget.GridLayout>
+
+</LinearLayout>

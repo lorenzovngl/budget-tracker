@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B8C1D</color>
+    <color name="colorPrimaryDark">#146616</color>
+    <color name="colorAccent">#966900</color>
+    <color name="incoming">#146616</color>
+    <color name="transfer">#734E00</color>
+    <color name="expense">#661414</color>
+    <color name="texNormal">#111</color>
+</resources>

@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Denario</string>
+    <string name="developed_by">sviluppata da Lorenzo Vainigli</string>
+
+    <string name="navigation_drawer_close">Apri il navigation drawer</string>
+    <string name="navigation_drawer_open">Chiudi il navigation drawer</string>
+
+    <string name="movements">Movimenti</string>
+    <string name="categories">Categorie</string>
+    <string name="statistics">Statistiche</string>
+    <string name="map">Mappa</string>
+    <string name="reports">Report</string>
+    <string name="reset_database">Reimposta database</string>
+    <string name="delete_database">Cancella database</string>
+    <string name="filter">Filtro</string>
+    <string name="new_movement">Nuovo Movimento</string>
+    <string name="edit_movement">Modifica Movimento</string>
+    <string name="find">Trova</string>
+    <string name="edit">Modifica</string>
+    <string name="delete">Elimina</string>
+    <string name="add">Aggiungi</string>
+    <string name="order">Ordina</string>
+    <string name="to_filter">Filtra</string>
+    <string name="export_pdf">Esporta PDF</string>
+    <string name="open">Apri</string>
+    <string name="date">Data</string>
+    <string name="description">Descrizione</string>
+    <string name="category">Categoria</string>
+    <string name="amount">Importo</string>
+    <string name="address">Indirizzo</string>
+    <string name="income">Introito</string>
+    <string name="incomings">Introiti</string>
+    <string name="expense">Spesa</string>
+    <string name="expenses">Spese</string>
+    <string name="periodic">Periodico</string>
+    <string name="repeat_every">Ripeti ogni</string>
+    <string name="for_">per</string>
+    <string name="times">volte</string>
+    <string name="place">Luogo</string>
+    <string name="current_balance">Saldo attuale</string>
+    <string name="last_movements">Ultimi movimenti</string>
+    <string name="next_movements">Prossimi movimenti</string>
+    <string name="no_movements">Nessun movimento</string>
+    <string name="no_data_to_show">Nessun dato da mostrare</string>
+    <string name="total_incomings">Totale introiti</string>
+    <string name="current_incomings">Introiti correnti</string>
+    <string name="future_incomings">Introiti futuri</string>
+    <string name="total_expenses">Totale spese</string>
+    <string name="current_expenses">Spese correnti</string>
+    <string name="future_expenses">Spese future</string>
+    <string name="difference">Differenza</string>
+    <string name="current_difference">Differenza corrente</string>
+    <string name="future_difference">Differenza futura</string>
+    <string name="resume_of_incomings">Riassunto degli introiti</string>
+    <string name="resume_of_expenses">Riassunto delle spese</string>
+    <string name="period">Periodo</string>
+    <string name="last">Ultimo</string>
+    <string name="average">Media</string>
+    <string name="most_recent">Più recente</string>
+    <string name="less_recent">Meno recente</string>
+    <string name="biggest">Più grande</string>
+    <string name="smallest">Più piccolo</string>
+    <string name="by_category">Per categoria</string>
+    <string name="by_period">Per periodo</string>
+    <string name="by_amount">Per importo</string>
+    <string name="update">Aggiorna</string>
+    <string name="turn_on">Attiva</string>
+    <string name="turn_off">Disattiva</string>
+    <string name="active_filter">Filtro attivo</string>
+    <string name="from">Da</string>
+    <string name="_from">da</string>
+    <string name="to">A</string>
+    <string name="from_">Dal</string>
+    <string name="to_">Al</string>
+    <string name="report_of_movements">Report dei movimenti</string>
+    <string name="range">Range</string>
+    <string name="insert">Inserisci</string>
+    <string name="insert_all_data_required">Inserisci tutti i dati richiesti</string>
+    <string name="there_are_upcoming_movements">Ci sono dei movimenti in arrivo</string>
+    <string name="no_categories">Nessuna categoria disponibile</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancella</string>
+    <string name="not_found">Non trovato</string>
+    <string name="missed_data">Dati mancanti</string>
+    <string name="tap_to_view">Tocca per visualizzare</string>
+    <string name="accounts">Depositi</string>
+
+    <string name="action_settings">Impostazioni</string>
+
+    <string name="day">Giorno</string>
+    <string name="week">Settimana</string>
+    <string name="month">Mese</string>
+    <string name="year">Anno</string>
+
+    <string-array name="periods">
+        <item>@string/day</item>
+        <item>@string/week</item>
+        <item>@string/month</item>
+        <item>@string/year</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+
+</resources>

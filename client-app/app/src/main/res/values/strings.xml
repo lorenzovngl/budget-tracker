@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Denario</string>
+    <string name="developed_by">developed by Lorenzo Vainigli</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="movements">Movements</string>
+    <string name="categories">Categories</string>
+    <string name="statistics">Statistics</string>
+    <string name="map">Map</string>
+    <string name="reports">Reports</string>
+    <string name="reset_database">Reset database</string>
+    <string name="delete_database">Delete database</string>
+    <string name="filter">Filter</string>
+    <string name="new_movement">New Movement</string>
+    <string name="edit_movement">Edit Movement</string>
+    <string name="find">Find</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="order">Order</string>
+    <string name="to_filter">Filter</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="open">Open</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="address">Address</string>
+    <string name="income">Income</string>
+    <string name="incomings">Incomings</string>
+    <string name="expense">Expense</string>
+    <string name="expenses">Expenses</string>
+    <string name="periodic">Periodic</string>
+    <string name="repeat_every">Repeat every</string>
+    <string name="for_">for</string>
+    <string name="times">times</string>
+    <string name="place">Place</string>
+    <string name="current_balance">Current balance</string>
+    <string name="last_movements">Last movements</string>
+    <string name="next_movements">Next movements</string>
+    <string name="no_movements">No movements</string>
+    <string name="no_data_to_show">No data to show</string>
+    <string name="total_incomings">Total incomings</string>
+    <string name="current_incomings">Current incomings</string>
+    <string name="future_incomings">Future incomings</string>
+    <string name="total_expenses">Total expenses</string>
+    <string name="current_expenses">Current expenses</string>
+    <string name="future_expenses">Future expenses</string>
+    <string name="difference">Difference</string>
+    <string name="current_difference">Current difference</string>
+    <string name="future_difference">Future difference</string>
+    <string name="resume_of_incomings">Resume of incomings</string>
+    <string name="resume_of_expenses">Resume of expenses</string>
+    <string name="period">Period</string>
+    <string name="last">Last</string>
+    <string name="average">Average</string>
+    <string name="most_recent">Most recent</string>
+    <string name="less_recent">Less recent</string>
+    <string name="biggest">Biggest</string>
+    <string name="smallest">Smallest</string>
+    <string name="update">Update</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="active_filter">Filter is active</string>
+    <string name="from">From</string>
+    <string name="_from">from</string>
+    <string name="to">To</string>
+    <string name="from_">From</string>
+    <string name="to_">To</string>
+    <string name="report_of_movements">Report of movements</string>
+    <string name="range">Range</string>
+    <string name="insert">Insert</string>
+    <string name="insert_all_data_required">Insert all data required</string>
+    <string name="there_are_upcoming_movements">There are upcoming movements</string>
+    <string name="no_categories">No categories available</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_found">Not found</string>
+    <string name="missed_data">Missed data</string>
+    <string name="tap_to_view">Tap to view</string>
+    <string name="accounts">Accounts</string>
+
+    <string name="icon_name">iconName</string>
+    <string name="icon_id">iconId</string>
+
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+
+    <string-array name="periods">
+        <item>@string/day</item>
+        <item>@string/week</item>
+        <item>@string/month</item>
+        <item>@string/year</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+</resources>

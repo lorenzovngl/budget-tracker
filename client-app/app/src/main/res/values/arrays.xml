@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="categ_icons">
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_beach</item>
+        <item>@drawable/ic_bus</item>
+        <item>@drawable/ic_cake</item>
+        <item>@drawable/ic_camera</item>
+        <item>@drawable/ic_car</item>
+        <item>@drawable/ic_email</item>
+        <item>@drawable/ic_fitness</item>
+        <item>@drawable/ic_gas_station</item>
+        <item>@drawable/ic_giftcard</item>
+        <item>@drawable/ic_grocery_store</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_hotel</item>
+        <item>@drawable/ic_map</item>
+        <item>@drawable/ic_movie</item>
+        <item>@drawable/ic_parking</item>
+        <item>@drawable/ic_phone_android</item>
+        <item>@drawable/ic_report</item>
+        <item>@drawable/ic_restaurant</item>
+        <item>@drawable/ic_school</item>
+        <item>@drawable/ic_store</item>
+        <item>@drawable/ic_swimming_pool</item>
+        <item>@drawable/ic_videogame</item>
+        <item>@drawable/ic_wallet</item>
+        <item>@drawable/ic_work</item>
+    </integer-array>
+
+</resources>

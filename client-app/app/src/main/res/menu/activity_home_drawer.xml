@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_databases"
+            android:icon="@drawable/ic_database"
+            android:title="Registri" />
+        <item
+            android:id="@+id/nav_accounts"
+            android:icon="@drawable/ic_wallet"
+            android:title="@string/accounts" />
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_menu_pie_chart"
+            android:title="@string/categories" />
+        <item
+            android:id="@+id/nav_movements"
+            android:icon="@drawable/ic_menu_movements"
+            android:title="@string/movements" />
+        <item
+            android:id="@+id/nav_stat"
+            android:icon="@drawable/ic_menu_stat"
+            android:title="@string/statistics" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_report"
+            android:title="@string/reports" />
+        <item
+            android:id="@+id/nav_backup"
+            android:icon="@drawable/ic_save"
+            android:title="Backup" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Manage">
+        <menu>
+            <item
+                android:id="@+id/nav_reset_db"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/reset_database" />
+            <item
+                android:id="@+id/nav_delete_db"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/delete_database" />
+            <item
+                android:id="@+id/nav_calendar"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Set calendar" />
+        </menu>
+    </item>
+
+</menu>
